@@ -1,0 +1,50 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 70%;
+    margin: auto;
+}
+
+
+h1{
+    padding: 20px;
+}
+
+
+.conteiner{
+    display: flex;
+}
+
+header{
+    background-color: rgba(22, 227, 216, 0.556);
+}
+
+footer{
+    background-color: rgba(50, 106, 119, 0.543);
+}
+
+.flex-items{
+    height: 400px;
+}
+
+
+.navigation{
+    background-color: rgba(249, 158, 12, 0.786);
+    width: 15%;
+}
+
+.article{
+    background-color: rgba(248, 224, 66, 0.786);
+    width: 50%;
+}
+
+
+.aside{
+    background-color: rgba(224, 211, 122, 0.786);
+    width: 40%;
+}
